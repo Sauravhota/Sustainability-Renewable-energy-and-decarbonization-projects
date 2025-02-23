@@ -8,3 +8,6 @@ The global sustainability dataset comprises sustainable energy indicators for 17
 Carbon Emission Forecasting: Forecast CO2 emissions, support climate strategies.
 Energy Consumption Prediction: Predict future energy usage, aid planning, and track SDG 7 progress.
 Renewable Energy Investment Strategies: Guide investors towards sustainable opportunities.
+
+image
+
