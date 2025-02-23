@@ -10,3 +10,4 @@ Carbon Emission Forecasting: Forecast CO2 emissions, support climate strategies.
 Energy Consumption Prediction: Predict future energy usage, aid planning, and track SDG 7 progress.
 Renewable Energy Investment Strategies: Guide investors towards sustainable opportunities.
 
+<img width="451" alt="305129881-055418a1-18b8-4426-b274-dd7f393ea0e4" src="https://github.com/user-attachments/assets/9153eaeb-bad4-4652-91ff-a406fcf2f300" />
